@@ -1,0 +1,63 @@
+{
+    "Quality":
+    [ 
+        {
+            "ID":1,
+            "Des": "twisted into a humanoid figure"
+        },
+        {
+            "ID":2,
+            "Des":"Crumpled into the shape of a spider"
+        },
+        {
+            "ID":3,
+            "Des":"Bent and twisted in unspeakable manners"
+        },
+        {
+            "ID":4,
+            "Des":"pulsating in a living mass of flesh"
+        },
+        {
+            "ID":5,
+            "Des":"Graced with wings"
+        }
+    ],
+    "limbs":
+    [ 
+        {
+            "ID":1,
+            "Animal":"cat"
+        },
+        {
+            "ID":2,
+            "Animal":"girrafe"
+        },
+        {
+            "ID":3,
+            "Animal":"Monkey"
+        },
+        {
+            "ID":4,
+            "Animal":"Dragon"
+        },
+        {
+            "ID":5,
+            "Animal":"Spider"
+        },
+        {
+            "ID":6,
+            "Animal":"Fins"
+        },
+        {
+            "ID":7,
+            "Animal":"tentacles"
+        },
+        {
+            "ID":8,
+            "Animal":"wings"
+        }
+
+    ]
+
+
+}

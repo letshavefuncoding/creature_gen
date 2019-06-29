@@ -1,0 +1,24 @@
+{
+    "size":
+    [
+        {
+            "ID":1,
+            "size":"Large"
+        },
+        {
+            "ID":2,
+            "size":"Giant"
+        },
+        {
+            "ID":3,
+            "size":"Collosal"
+        },
+        {
+            "ID":4,
+            "size":"Gargantuan"
+        }
+
+
+    ]
+
+}

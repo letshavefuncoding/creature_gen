@@ -1,0 +1,48 @@
+{
+    "traits":[
+        {
+            "ID":1,
+            "Name":"toxic bite"
+        },
+        {
+            "ID":2,
+            "Name":"poisonous sting"
+        },
+        {
+            "ID":3,
+            "Name":"lazer eyes"
+        },
+        {
+            "ID":4,
+            "Name":"corrosive blood"
+        },
+        {
+            "ID":5,
+            "Name":"breath weapon"
+        },
+        {
+            "ID":6,
+            "Name":"powerful charge"
+        },
+        {
+            "ID":7,
+            "Name":"painful screech"
+        },
+        {
+            "ID":8,
+            "Name":"petrifying gaze"
+        },
+        {
+            "ID":9,
+            "Name":"engulfing maw"
+        },
+        {
+            "ID":10,
+            "Name":"sickening aura"
+        },
+        {
+            "ID":11,
+            "Name":"Rippling Muscles"
+        }
+    ]
+}

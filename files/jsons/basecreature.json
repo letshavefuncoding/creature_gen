@@ -1,0 +1,34 @@
+
+{
+    "Creatures": [
+        {
+            "Species":"humanoid",
+            "ID":1
+        },
+        {
+            "Species":"Crab",
+            "ID":2
+        },
+        {
+            "Species":"Lizard",
+            "ID":3
+        },
+        {
+            "Species":"Snake",
+            "ID":4
+        },
+        {
+            "Species":"Spider",
+            "ID":5
+        },
+        {
+            "Species":"Dragon",
+            "ID":6
+        },
+        {
+            "Species":"Scorpion",
+            "ID":7
+        }
+
+    ]
+}
